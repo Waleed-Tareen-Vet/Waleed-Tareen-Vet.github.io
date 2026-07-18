@@ -4,7 +4,7 @@
 *Enrolled: ISVPS General Practitioner Certificate in Small Animal Surgery (GpCert SAS)*
 
 📍 Riyadh, Kingdom of Saudi Arabia (KSA)  
-📞 +966 55 135 7131 | ✉️ [waleedtareen1100@gmail.com](mailto:waleedtareen1100@gmail.com)  
+📞 +966 50 074 4341 | ✉️ [waleedtareen1100@gmail.com](mailto:waleedtareen1100@gmail.com)  
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/dr-m-waleed-tareen1100/)
 
 ---
