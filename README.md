@@ -1,2 +1,2 @@
 # Waleed-Tareen-Vet.github.io
-Dr. Waleed AK Tareen, Small animal surgeon in Riyadh , KSA
+Dr. Waleed AK Tareen, Small Animal Surgeon in Riyadh, KSA
