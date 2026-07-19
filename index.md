@@ -62,11 +62,13 @@
 ## 🔬 Peer-Reviewed Publications & Research
 
 * **Lead Author:** *Impact of Multiple Isolation Procedures on the Differentiation Potential of Adipose-Derived Canine Mesenchymal Stem Cells.*  
-  Tareen, W. Ak., et al. (2024). **American Journal of Stem Cells**, 13(1), pp. 27–36. [DOI: 10.62347/LEVZ7282]
+  [Tareen, W. Ak., et al. (2024). American Journal of Stem Cells, 13(1), pp. 27–36.](https://pubmed.ncbi.nlm.nih.gov/38505823/)
+
 * **Co-Author:** *Mechanistic Insights into the Obesity-Alleviating Properties of Korean Red Ginseng in Canine Adipocyte Cultures Derived from Mesenchymal Stem Cells.*  
-  Saba, E., ..., Tareen, W. A. K., et al. (2025). **Pakistan Veterinary Journal**, 45(4), pp. 2020–2027.
+  [Saba, E., ..., Tareen, W. A. K., et al. (2025). Pakistan Veterinary Journal, 45(4), pp. 2020–2027.](https://www.pvj.com.pk/pdf-files/25-531.htm)
+
 * **Co-Author:** *Autologous Platelet Lysate Is an Alternative to Fetal Bovine Serum for Canine Adipose-Derived Mesenchymal Stem Cell Culture and Differentiation.*  
-  Rashid, U., ..., Tareen, W. A., et al. (2023). **Animals**, 13(8), p. 1342. [DOI: 10.3390/ani13081342]
+  [Rashid, U., ..., Tareen, W. A., et al. (2023). Animals, 13(8), p. 1342.](https://www.mdpi.com/2076-2615/13/16/2655)
 
 ### Conference Presentations (Oral)
 * *Comparison of Growth Kinetics and Mesodermal Differentiation Potential of Bovine Mesenchymal Stem Cells Derived from Amniotic Fluid and Wharton Jelly* — **STEMS International Conference (2021)**
